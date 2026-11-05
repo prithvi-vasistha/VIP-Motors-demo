@@ -22,9 +22,8 @@ def fill_time(page):return page.evaluate('''()=>{const i=document.querySelector(
 def finish(page):page.evaluate('''()=>{const i=document.querySelector('.hero-carousel').dataset.activeSlide;document.getAnimations().find(a=>a.effect?.target?.dataset?.progressIndex===i).finish()}''')
 with sync_playwright() as p:
  browser=p.chromium.launch(headless=True,executable_path=CHROME)
- context=browser.new_context(viewport={'width':1440,'height':900});page=context.new_page();watch(page)
- go(page,'/?theme=dark');expect(page.locator('html')).to_have_attribute('data-vip-intro','play')
- page.wait_for_timeout(2600);expect(page.locator('html')).to_have_attribute('data-vip-intro','done')
+ context=browser.new_context(viewport={'width':1440,'height':900});context.add_init_script("window.__introStates=[];new MutationObserver(()=>{const state=document.documentElement?.dataset.vipIntro;if(state)window.__introStates.push(state)}).observe(document,{subtree:true,attributes:true,attributeFilter:['data-vip-intro']})");page=context.new_page();watch(page)
+ go(page,'/?theme=dark');assert 'play' in page.evaluate('window.__introStates');expect(page.locator('html')).to_have_attribute('data-vip-intro','done');expect(page.locator('.hero-carousel')).to_have_attribute('data-playing','true');page.evaluate("document.getAnimations().filter(a=>a.effect?.target?.hasAttribute('data-progress-index')).forEach(a=>a.currentTime=0)")
  first=fill_time(page);page.wait_for_timeout(1400);second=fill_time(page)
  assert second['time']>first['time']+1000,(first,second)
  assert 'matrix' in second['scale'] and second['scale']!='matrix(1, 0, 0, 1, 0, 0)'
@@ -80,7 +79,7 @@ with sync_playwright() as p:
  context.close()
  for theme,width,height,label in [('dark',390,844,'phone'),('light',390,844,'phone'),('dark',820,1180,'tablet'),('light',1440,900,'desktop'),('dark',360,800,'small-phone')]:
   ctx=browser.new_context(viewport={'width':width,'height':height},reduced_motion='reduce');pg=ctx.new_page();watch(pg);go(pg,'/?theme='+theme);fits(pg)
-  expect(pg.locator('.hero-carousel')).to_have_attribute('data-playing','false');pg.wait_for_function("document.getAnimations().some(a=>a.effect?.target?.dataset?.progressIndex==='0'&&a.playState==='paused')");expect(pg.locator('.hero-carousel-selectors')).to_be_visible()
+  expect(pg.locator('.hero-carousel')).to_have_attribute('data-playing','false');expect(pg.locator('.hero-carousel-selectors button').first).to_be_enabled();pg.wait_for_timeout(300);expect(pg.locator('.hero-carousel')).to_have_attribute('data-active-slide','0');assert pg.evaluate("document.getAnimations().filter(a=>a.effect?.target?.hasAttribute('data-progress-index')).every(a=>a.playState!=='running')");expect(pg.locator('.hero-carousel-selectors')).to_be_visible()
   pg.screenshot(path=str(OUT/f'{theme}-{label}-home.png'))
   go(pg,'/inventory/?make=Porsche');pg.locator('.vehicle-card').first.get_by_role('button').click();pg.locator('.wishlist-nav').click();expect(pg.locator('.vehicle-card')).to_have_count(1);fits(pg)
   pg.screenshot(path=str(OUT/f'{theme}-{label}-wishlist.png'))
