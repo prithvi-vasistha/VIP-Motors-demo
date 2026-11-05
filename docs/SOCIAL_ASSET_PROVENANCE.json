@@ -1,0 +1,15 @@
+{
+  "instagram": {
+    "asset": "public/social/instagram.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Instagram_icon.png",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png",
+    "format": "PNG, resized to 96px for 22px display",
+    "rights": "Public-domain simple logo per source; Instagram trademark retained"
+  },
+  "whatsapp": {
+    "asset": "public/social/whatsapp.svg",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/whatsapp.svg",
+    "rights": "CC0 Simple Icons glyph; WhatsApp trademark retained",
+    "colour": "#25D366"
+  }
+}

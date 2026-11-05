@@ -1,0 +1,183 @@
+/* Finance and ownership services follow the collection's paper-and-ink system. */
+.services-page{padding-block:68px 90px}
+.services-heading{display:grid;grid-template-columns:1.2fr 1fr;gap:90px;align-items:end;padding-bottom:48px;border-bottom:1px solid var(--line);margin-bottom:48px}
+.services-heading h1{font-size:clamp(56px,6vw,88px)}
+.services-heading>div>p:not(.section-kicker){max-width:42ch;font-size:14px;line-height:1.9;color:var(--muted)}
+.services-heading>div>.text-link{margin-top:25px;font-size:12px}
+.service-jump-links{display:flex;flex-wrap:wrap;gap:26px;margin-top:27px;font-size:12px}
+.service-jump-links a{text-decoration:underline;text-decoration-color:var(--accent);text-underline-offset:7px;min-height:28px}
+.finance-workspace{display:grid;grid-template-columns:minmax(0,1.05fr) minmax(0,.9fr);gap:48px 70px;align-items:start;scroll-margin-top:120px}
+.service-section-heading{margin-bottom:29px}
+.service-section-heading h2{font-size:40px;line-height:1.08}
+.service-section-heading>p{font-size:12px;line-height:1.85;max-width:46ch;color:var(--muted);margin-top:15px}
+.finance-form .field select,.service-planner .field select{width:100%;min-height:54px}
+.service-field-hint{font-size:10px;line-height:1.8;color:var(--muted);margin-top:9px}
+.finance-fields{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px 22px;margin-top:29px}
+.service-number-input{position:relative}
+.service-number-input>span{position:absolute;left:16px;top:50%;transform:translateY(-50%);color:var(--muted);font-size:15px;pointer-events:none}
+.service-number-input>input{width:100%;min-height:54px;padding-left:35px;font-variant-numeric:tabular-nums}
+.service-number-suffix>span{left:auto;right:17px}
+.service-number-suffix>input{padding-left:16px;padding-right:42px}
+.service-number-input input::-webkit-inner-spin-button{-webkit-appearance:none}
+.service-number-input input{appearance:textfield;-moz-appearance:textfield}
+.finance-form-actions{display:flex;gap:26px;align-items:center;margin-top:30px}
+.finance-form-actions>.button{font-size:11px;gap:36px}
+.finance-form-actions>.text-button{font-size:11px;min-height:44px}
+.service-status{font-size:11px;color:var(--muted);min-height:20px;margin-top:15px;line-height:1.8}
+.service-disclosure{border-block:1px solid var(--line);margin-top:22px;font-size:12px}
+.service-disclosure>summary{min-height:55px;cursor:pointer;padding-block:17px}
+.service-disclosure>p{color:var(--muted);font-size:11px;line-height:1.9;margin-bottom:16px}
+.service-disclosure>a{font-size:11px;display:inline-block;margin:0 0 21px;text-decoration:underline;text-underline-offset:4px}
+.finance-summary{background:var(--surface);border:1px solid var(--line);border-top:2px solid var(--accent);padding:29px 32px;position:sticky;top:120px;border-radius:14px}
+.finance-summary-context>span{font-size:10px;color:var(--muted)}
+.finance-summary-context h3{font-family:var(--font-display),Georgia,serif;font-size:31px;margin-top:6px;font-weight:400}
+.finance-summary-context>p{font-size:11px;color:var(--muted);margin-top:6px}
+.finance-emi{padding-block:28px;margin-block:24px;border-block:1px solid var(--line)}
+.finance-emi>span{font-size:11px;color:var(--muted)}
+.finance-emi>output{font-family:var(--font-display),Georgia,serif;display:block;font-size:clamp(42px,4.4vw,65px);font-variant-numeric:tabular-nums;letter-spacing:-.035em;line-height:1.15;margin-top:7px;overflow-wrap:anywhere}
+.finance-emi small{display:inline-block;font-family:var(--font-sans),sans-serif;font-size:11px;font-weight:400;letter-spacing:0;color:var(--muted);margin-left:10px;white-space:nowrap}
+.finance-emi>p{font-size:10px;color:var(--muted);margin-top:9px;font-variant-numeric:tabular-nums}
+.finance-breakdown{margin:0}
+.finance-breakdown>div,.service-brief dl>div{display:flex;justify-content:space-between;align-items:baseline;gap:24px;margin-top:13px;font-size:11px}
+.finance-breakdown dt,.service-brief dt{color:var(--muted)}
+.finance-breakdown dd,.service-brief dd{margin:0;font-variant-numeric:tabular-nums;text-align:right}
+.finance-breakdown .finance-total{border-top:1px solid var(--line);padding-top:17px;margin-top:19px;font-size:12px}
+.finance-total dt{color:var(--ink)}
+.finance-composition{margin-top:25px;background:var(--accent);height:5px;border-radius:3px;overflow:hidden}
+.finance-composition>span{display:block;width:100%;height:100%;background:var(--muted);transform-origin:left center;transition:transform 220ms var(--ease-out)}
+.finance-legend{display:flex;justify-content:space-between;font-size:9px;color:var(--muted);margin-top:9px}
+.finance-legend>span:before{content:"";width:5px;height:5px;background:var(--muted);display:inline-block;margin-right:7px;vertical-align:middle}
+.finance-legend>span:last-child:before{background:var(--accent)}
+.finance-summary>.button{width:100%;margin-top:27px;justify-content:space-between;font-size:11px;gap:20px}
+.finance-copy{min-height:40px;display:block;margin:12px auto 0;font-size:10px}
+.service-note{font-size:10px;color:var(--muted);line-height:1.85;margin-top:17px}
+.finance-invalid{padding-block:40px}
+.finance-invalid h3{font-family:var(--font-display),Georgia,serif;font-size:34px}
+.finance-invalid p{font-size:12px;color:var(--muted);margin-top:16px}
+.service-copy-fallback{display:block;font-size:11px;margin-top:16px}
+.service-copy-fallback>input{width:100%;margin-top:8px;background:var(--paper);border:1px solid var(--input-border);color:var(--ink);padding:12px;font-size:11px}
+.finance-form,.finance-summary,.finance-schedule,.service-planner-fields,.service-brief{min-width:0}
+.finance-schedule{grid-column:1/-1;margin-top:5px;padding-top:36px;border-top:1px solid var(--line)}
+.service-table-scroll{overflow-x:auto;overscroll-behavior-inline:contain;min-width:0;max-width:100%}
+.service-table-scroll table{width:100%;min-width:580px;border-collapse:collapse}
+.service-table-scroll th,.service-table-scroll td{text-align:right;padding:18px 12px;border-bottom:1px solid var(--line);font-size:12px;font-weight:400;font-variant-numeric:tabular-nums;white-space:nowrap}
+.service-table-scroll tr>:first-child{text-align:left;padding-left:0}
+.service-table-scroll tr>:last-child{padding-right:0}
+.service-table-scroll thead th{font-size:10px;color:var(--muted)}
+.insurance-section{padding-top:64px;margin-top:62px;border-top:1px solid var(--line);scroll-margin-top:110px}
+.service-section-split{display:grid;grid-template-columns:1.2fr 1fr;gap:90px;align-items:end;margin-bottom:34px}
+.service-section-split>p{margin:0;max-width:42ch}
+.service-planner{display:grid;grid-template-columns:minmax(0,1.05fr) minmax(0,.9fr);gap:70px;align-items:start}
+.service-choice-set{padding:0;margin:29px 0 0;border:0}
+.service-choice-set legend{font-size:12px;margin-bottom:13px}
+.service-radio{display:flex;gap:15px;align-items:flex-start;padding:18px 0;border-top:1px solid var(--line);cursor:pointer}
+.service-radio>input{accent-color:var(--accent);width:17px;height:17px;flex-shrink:0;margin:3px 0 0}
+.service-radio strong{display:block;font-size:13px;font-weight:500}
+.service-radio small{display:block;color:var(--muted);font-size:11px;line-height:1.8;margin-top:5px;max-width:43ch}
+.service-checkbox{display:flex;gap:12px;align-items:center;font-size:11px;cursor:pointer;min-height:44px;margin-top:9px}
+.service-checkbox input{accent-color:var(--accent);width:17px;height:17px;flex-shrink:0}
+.service-brief{background:var(--surface);padding:30px 32px;border:1px solid var(--line);border-radius:14px}
+.service-brief .section-kicker{font-size:10px;margin-bottom:15px}
+.service-brief h3{font-family:var(--font-display),Georgia,serif;font-size:34px;line-height:1.1}
+.service-brief-meta{font-size:11px;color:var(--muted);margin-top:12px;font-variant-numeric:tabular-nums}
+.service-brief dl{border-top:1px solid var(--line);margin:24px 0 27px;padding-top:6px}
+.service-brief dl>div{align-items:flex-start;line-height:1.7}
+.service-brief dt{max-width:25ch}
+.service-brief dd{max-width:22ch}
+.service-brief .button{width:100%;justify-content:space-between;font-size:11px;gap:20px}
+.service-faq{border-top:1px solid var(--line);margin-top:72px;padding-top:45px;display:grid;grid-template-columns:.8fr 1.2fr;gap:90px}
+.service-faq h2{font-size:43px}
+.service-faq .text-link{font-size:12px;margin-top:24px}
+.service-faq details{border-bottom:1px solid var(--line);font-size:13px}
+.service-faq summary{padding-block:20px;cursor:pointer;min-height:60px}
+.service-faq details p{font-size:12px;color:var(--muted);line-height:1.9;margin:0 0 22px}
+.service-faq details .text-link{margin:0 0 20px;font-size:11px}
+#warranty-planner{scroll-margin-top:120px}
+.warranty-planner .finance-fields{margin-top:25px}
+.warranty-review-topics{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:45px;border-top:1px solid var(--line);padding-top:40px;margin-top:56px}
+.warranty-review-topics h2{font-size:32px}
+.warranty-review-topics p{font-size:12px;color:var(--muted);line-height:1.9;margin-top:19px;max-width:39ch}
+.detail-service-links{display:flex;flex-direction:column;gap:13px;border-top:1px solid var(--line);padding-top:21px;margin-top:23px}
+.detail-service-links a{display:flex;justify-content:space-between;align-items:center;font-size:11px;min-height:28px}
+.detail-service-links svg{width:17px;height:17px}
+@media(hover:hover) and (pointer:fine){.service-jump-links a:hover,.service-disclosure>a:hover,.detail-service-links a:hover{color:var(--accent-text)}.service-radio:hover strong{color:var(--accent-text)}}
+@media(max-width:1100px){
+  .services-heading,.service-section-split{gap:40px}
+  .services-heading h1{font-size:67px}
+  .finance-workspace,.service-planner{gap:40px 32px}
+  .finance-summary,.service-brief{padding:24px}
+  .finance-summary-context h3,.service-brief h3{font-size:29px}
+  .finance-fields{gap:22px 16px}
+  .finance-emi output{font-size:45px}
+  .finance-emi small{display:block;margin-left:0;margin-top:8px}
+  .finance-breakdown>div,.service-brief dl>div{gap:12px;font-size:10px}
+  .finance-breakdown .finance-total{font-size:11px}
+  .service-faq{gap:40px}
+  .service-section-heading h2{font-size:34px}
+  .warranty-review-topics{gap:28px}
+  .header-caption{display:none}
+}
+@media(max-width:700px){
+  .services-page{padding-block:39px 56px}
+  .services-heading{grid-template-columns:1fr;gap:25px;padding-bottom:29px;margin-bottom:30px}
+  .services-heading h1{font-size:55px}
+  .services-heading .section-kicker{font-size:11px;margin-bottom:18px}
+  .services-heading>div>p:not(.section-kicker){font-size:12px;max-width:43ch}
+  .service-jump-links{font-size:11px;gap:24px;margin-top:21px}
+  .finance-workspace,.service-planner{grid-template-columns:1fr;gap:30px}
+  .service-section-heading{margin-bottom:24px}
+  .service-section-heading h2{font-size:33px}
+  .service-section-heading>p{font-size:11px;margin-top:12px}
+  .finance-form .field select,.service-planner .field select,.service-number-input input{font-size:16px;min-height:52px}
+  .finance-fields{gap:22px 14px;margin-top:23px}
+  .finance-fields .field label{font-size:10px}
+  .service-number-input>span{left:12px;font-size:14px}
+  .service-number-input>input{padding-left:28px;padding-right:8px}
+  .service-number-suffix>span{left:auto;right:12px}
+  .service-number-suffix>input{padding-left:12px;padding-right:28px}
+  .finance-form-actions{margin-top:25px;gap:25px}
+  .finance-form-actions>.button{font-size:10px;gap:29px}
+  .service-status{font-size:10px}
+  .service-disclosure{margin-top:14px}
+  .service-disclosure>summary{font-size:11px}
+  .service-disclosure>p{font-size:10px}
+  .finance-summary{position:static;padding:25px 22px;border-radius:12px}
+  .finance-emi{padding-block:23px;margin-block:23px}
+  .finance-emi output{font-size:52px}
+  .finance-emi small{display:inline-block;margin-left:8px}
+  .finance-breakdown>div{font-size:11px}
+  .finance-breakdown .finance-total{font-size:11px;gap:15px}
+  .finance-total dt{max-width:21ch}
+  .finance-summary>.button{font-size:11px;min-height:52px}
+  .finance-schedule{padding-top:29px;margin-top:0}
+  .service-table-scroll table{min-width:530px}
+  .service-table-scroll th,.service-table-scroll td{font-size:11px;padding-block:17px}
+  .service-table-scroll thead th{font-size:9px}
+  .insurance-section{padding-top:33px;margin-top:36px}
+  .service-section-split{grid-template-columns:1fr;gap:19px;margin-bottom:27px}
+  .service-section-split>p{font-size:11px;max-width:none}
+  .service-section-split .section-kicker{font-size:10px;margin-bottom:15px}
+  .service-choice-set{margin-top:24px}
+  .service-choice-set legend{font-size:11px}
+  .service-radio{gap:13px;padding-block:17px}
+  .service-radio strong{font-size:12px}
+  .service-radio small{font-size:10px}
+  .service-checkbox{font-size:10px}
+  .service-brief{padding:24px 22px;border-radius:12px}
+  .service-brief h3{font-size:31px}
+  .service-brief dl>div{font-size:11px;gap:15px}
+  .service-brief .button{font-size:10px;min-height:52px;padding-inline:16px}
+  .service-faq{grid-template-columns:1fr;gap:26px;padding-top:30px;margin-top:43px}
+  .service-faq h2{font-size:36px}
+  .service-faq .section-kicker{font-size:10px}
+  .service-faq .text-link{font-size:11px;margin-top:20px}
+  .service-faq summary{font-size:12px;padding-block:19px}
+  .service-faq details p{font-size:11px}
+  .warranty-review-topics{grid-template-columns:1fr;gap:29px;margin-top:34px;padding-top:30px}
+  .warranty-review-topics h2{font-size:30px}
+  .warranty-review-topics p{font-size:11px;max-width:none;margin-top:15px}
+  .menu-panel nav{margin-top:28px;gap:15px}
+  .menu-panel nav a{font-size:26px;line-height:1.3;min-height:38px}
+  .menu-note{margin-top:30px}
+}
+@media(prefers-reduced-motion:reduce){.finance-composition>span{transition:none}}

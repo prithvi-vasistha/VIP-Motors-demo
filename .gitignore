@@ -1,0 +1,15 @@
+node_modules/
+.next/
+.env*
+*.tsbuildinfo
+.DS_Store
+
+.venv/
+test-results/
+__pycache__/
+
+out/
+.pages/
+
+# Local design history is retained in the working copy, outside the public package.
+/docs/*.md

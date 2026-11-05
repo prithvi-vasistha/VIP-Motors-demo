@@ -1,0 +1,1387 @@
+[
+  {
+    "id": "ferrari-roma-2022",
+    "slug": "ferrari-roma-2022",
+    "make": "Ferrari",
+    "model": "Roma",
+    "variant": "3.9 V8",
+    "year": 2022,
+    "mileage": 5400,
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "body": "Coupé",
+    "price": {
+      "kind": "numeric",
+      "amount": 36500000,
+      "currency": "INR"
+    },
+    "images": [
+      {
+        "src": "/cars/ferrari-roma-2022/1.jpg",
+        "alt": "Reference photograph of Ferrari Roma, front three-quarter",
+        "label": "Front three-quarter",
+        "width": 1440,
+        "height": 958,
+        "focalPoint": "50% 50%",
+        "kind": "photo",
+        "fit": "contain",
+        "credit": {
+          "author": "Alexander-93",
+          "title": "Ferrari Roma IMG 9620.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Ferrari_Roma_IMG_9620.jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      },
+      {
+        "src": "/cars/ferrari-roma-2022/2.jpg",
+        "alt": "Reference photograph of Ferrari Roma, rear three-quarter",
+        "label": "Rear three-quarter",
+        "width": 1440,
+        "height": 958,
+        "focalPoint": "50% 50%",
+        "kind": "photo",
+        "fit": "contain",
+        "credit": {
+          "author": "Alexander-93",
+          "title": "Ferrari Roma IMG 9627.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Ferrari_Roma_IMG_9627.jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      }
+    ],
+    "demo": true,
+    "description": "Explore the Ferrari Roma. Review the specifications and prepare an enquiry for more information."
+  },
+  {
+    "id": "bmw-x7-40i-2023",
+    "slug": "bmw-x7-40i-2023",
+    "make": "BMW",
+    "model": "X7",
+    "variant": "xDrive40i M Sport",
+    "year": 2023,
+    "mileage": 48000,
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "body": "SUV",
+    "price": {
+      "kind": "numeric",
+      "amount": 8500000,
+      "currency": "INR"
+    },
+    "images": [
+      {
+        "src": "/cars/bmw-x7-40i-2023/1.jpg",
+        "alt": "Reference photograph of BMW X7, model view",
+        "label": "Model view",
+        "width": 1440,
+        "height": 826,
+        "focalPoint": "50% 50%",
+        "kind": "photo",
+        "fit": "contain",
+        "credit": {
+          "author": "Alexander Migl",
+          "title": "BMW G07 X7 M60i DSC 8564.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:BMW_G07_X7_M60i_DSC_8564.jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      }
+    ],
+    "demo": true,
+    "description": "Explore the BMW X7. Review the specifications and prepare an enquiry for more information."
+  },
+  {
+    "id": "bentley-continental-gt-2021",
+    "slug": "bentley-continental-gt-2021",
+    "make": "Bentley",
+    "model": "Continental GT",
+    "variant": "V8",
+    "year": 2021,
+    "mileage": 12000,
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "body": "Coupé",
+    "price": {
+      "kind": "numeric",
+      "amount": 31000000,
+      "currency": "INR"
+    },
+    "images": [
+      {
+        "src": "/cars/bentley-continental-gt-2021/1.jpg",
+        "alt": "Reference photograph of Bentley Continental GT, model view",
+        "label": "Model view",
+        "width": 1440,
+        "height": 721,
+        "focalPoint": "50% 50%",
+        "kind": "photo",
+        "fit": "contain",
+        "credit": {
+          "author": "Alexander-93",
+          "title": "Bentley Continental GT (3rd gen.) Azure 1X7A6807.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Bentley_Continental_GT_(3rd_gen.)_Azure_1X7A6807.jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      }
+    ],
+    "demo": true,
+    "description": "Explore the Bentley Continental GT. Review the specifications and prepare an enquiry for more information."
+  },
+  {
+    "id": "mercedes-gle-300d-2025",
+    "slug": "mercedes-gle-300d-2025",
+    "make": "Mercedes-Benz",
+    "model": "GLE",
+    "variant": "300d 4MATIC AMG Line",
+    "year": 2025,
+    "mileage": 7700,
+    "fuel": "Diesel",
+    "transmission": "Automatic",
+    "body": "SUV",
+    "price": {
+      "kind": "numeric",
+      "amount": 9600000,
+      "currency": "INR"
+    },
+    "images": [
+      {
+        "src": "/cars/mercedes-gle-300d-2025/1.jpg",
+        "alt": "Reference photograph of Mercedes-Benz GLE, model view",
+        "label": "Model view",
+        "width": 1440,
+        "height": 959,
+        "focalPoint": "50% 50%",
+        "kind": "photo",
+        "fit": "contain",
+        "credit": {
+          "author": "Charles from Port Chester, New York",
+          "title": "Mercedes-Benz GLE-Klasse (V167) GLE 350 4MATIC (2023) (53651855136).jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_GLE-Klasse_(V167)_GLE_350_4MATIC_(2023)_(53651855136).jpg",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/"
+        }
+      }
+    ],
+    "demo": true,
+    "description": "Explore the Mercedes-Benz GLE. Review the specifications and prepare an enquiry for more information."
+  },
+  {
+    "id": "mercedes-c220d-2023",
+    "slug": "mercedes-c220d-2023",
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "variant": "C 220d",
+    "year": 2023,
+    "mileage": 42000,
+    "fuel": "Diesel",
+    "transmission": "Automatic",
+    "body": "Saloon",
+    "price": {
+      "kind": "numeric",
+      "amount": 4500000,
+      "currency": "INR"
+    },
+    "images": [
+      {
+        "src": "/cars/mercedes-c220d-2023/1.jpg",
+        "alt": "Reference photograph of Mercedes-Benz C-Class, model view",
+        "label": "Model view",
+        "width": 1440,
+        "height": 986,
+        "focalPoint": "50% 50%",
+        "kind": "photo",
+        "fit": "contain",
+        "credit": {
+          "author": "Dinkun Chen",
+          "title": "MERCEDES-BENZ C-CLASS LWB (W206) China (17).jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:MERCEDES-BENZ_C-CLASS_LWB_(W206)_China_(17).jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      }
+    ],
+    "demo": true,
+    "description": "Explore the Mercedes-Benz C-Class. Review the specifications and prepare an enquiry for more information."
+  },
+  {
+    "id": "ford-endeavour-2021",
+    "slug": "ford-endeavour-2021",
+    "make": "Ford",
+    "model": "Endeavour",
+    "variant": "Titanium Plus 2.0 4x2 AT",
+    "year": 2021,
+    "mileage": 125000,
+    "fuel": "Diesel",
+    "transmission": "Automatic",
+    "body": "SUV",
+    "price": {
+      "kind": "numeric",
+      "amount": 2700000,
+      "currency": "INR"
+    },
+    "images": [
+      {
+        "src": "/cars/ford-endeavour-2021/1.jpg",
+        "alt": "Reference photograph of Ford Endeavour, model view",
+        "label": "Model view",
+        "width": 1440,
+        "height": 1080,
+        "focalPoint": "50% 50%",
+        "kind": "photo",
+        "fit": "contain",
+        "credit": {
+          "author": "Captainmorlypogi1959",
+          "title": "Ford Everest 4x2 Titanium 2019 (2).jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Ford_Everest_4x2_Titanium_2019_(2).jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      }
+    ],
+    "demo": true,
+    "description": "Explore the Ford Endeavour. Review the specifications and prepare an enquiry for more information."
+  },
+  {
+    "id": "mahindra-xuv700-2022",
+    "slug": "mahindra-xuv700-2022",
+    "make": "Mahindra",
+    "model": "XUV700",
+    "variant": "AX7 L AWD 7-seater",
+    "year": 2022,
+    "mileage": 80000,
+    "fuel": "Diesel",
+    "transmission": "Automatic",
+    "body": "SUV",
+    "price": {
+      "kind": "numeric",
+      "amount": 1900000,
+      "currency": "INR"
+    },
+    "images": [
+      {
+        "src": "/cars/mahindra-xuv700-2022/1.jpg",
+        "alt": "Reference photograph of Mahindra XUV700, model view",
+        "label": "Model view",
+        "width": 1440,
+        "height": 1080,
+        "focalPoint": "50% 50%",
+        "kind": "photo",
+        "fit": "contain",
+        "credit": {
+          "author": "Ank Kumar",
+          "title": "A black Mahindra XUV700 SUV in Ashiana Brahmananda, Jamshedpur, India (Ank Kumar, Infosys Limited) 02.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:A_black_Mahindra_XUV700_SUV_in_Ashiana_Brahmananda,_Jamshedpur,_India_(Ank_Kumar,_Infosys_Limited)_02.jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      }
+    ],
+    "demo": true,
+    "description": "Explore the Mahindra XUV700. Review the specifications and prepare an enquiry for more information."
+  },
+  {
+    "id": "lamborghini-urus-2022",
+    "slug": "lamborghini-urus-2022",
+    "make": "Lamborghini",
+    "model": "Urus",
+    "variant": "4.0 V8",
+    "year": 2022,
+    "mileage": 12500,
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "body": "SUV",
+    "price": {
+      "kind": "numeric",
+      "amount": 31500000,
+      "currency": "INR"
+    },
+    "images": [
+      {
+        "src": "/cars/lamborghini-urus-2022/1.jpg",
+        "alt": "Reference photograph of Lamborghini Urus, model view",
+        "label": "Model view",
+        "width": 1440,
+        "height": 1099,
+        "focalPoint": "50% 50%",
+        "kind": "photo",
+        "fit": "contain",
+        "credit": {
+          "author": "Alexander-93",
+          "title": "Lamborghini Urus Performante 1X7A6805.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Lamborghini_Urus_Performante_1X7A6805.jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      }
+    ],
+    "demo": true,
+    "description": "Explore the Lamborghini Urus. Review the specifications and prepare an enquiry for more information."
+  },
+  {
+    "id": "porsche-911-carrera-s-2021",
+    "slug": "porsche-911-carrera-s-2021",
+    "make": "Porsche",
+    "model": "911",
+    "variant": "Carrera S (992)",
+    "year": 2021,
+    "mileage": 14200,
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "body": "Coupé",
+    "price": {
+      "kind": "numeric",
+      "amount": 16500000,
+      "currency": "INR"
+    },
+    "images": [
+      {
+        "src": "/cars/porsche-911-carrera-s-2021/1.jpg",
+        "alt": "Reference photograph of Porsche 911, model view",
+        "label": "Model view",
+        "width": 1440,
+        "height": 707,
+        "focalPoint": "50% 50%",
+        "kind": "photo",
+        "fit": "contain",
+        "credit": {
+          "author": "Alexander Migl",
+          "title": "Porsche 992 Carrera S coupe IMG 5838.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Porsche_992_Carrera_S_coupe_IMG_5838.jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      }
+    ],
+    "demo": true,
+    "description": "Explore the Porsche 911. Review the specifications and prepare an enquiry for more information."
+  },
+  {
+    "id": "porsche-cayenne-coupe-2022",
+    "slug": "porsche-cayenne-coupe-2022",
+    "make": "Porsche",
+    "model": "Cayenne Coupé",
+    "variant": "3.0 V6",
+    "year": 2022,
+    "mileage": 22000,
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "body": "SUV",
+    "price": {
+      "kind": "numeric",
+      "amount": 11200000,
+      "currency": "INR"
+    },
+    "images": [
+      {
+        "src": "/cars/porsche-cayenne-coupe-2022/1.jpg",
+        "alt": "Reference photograph of Porsche Cayenne Coupé, model view",
+        "label": "Model view",
+        "width": 1440,
+        "height": 808,
+        "focalPoint": "50% 50%",
+        "kind": "photo",
+        "fit": "contain",
+        "credit": {
+          "author": "Alexander-93",
+          "title": "Porsche Cayenne Coupé GTS 1X7A7224.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Porsche_Cayenne_Coup%C3%A9_GTS_1X7A7224.jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      }
+    ],
+    "demo": true,
+    "description": "Explore the Porsche Cayenne Coupé. Review the specifications and prepare an enquiry for more information."
+  },
+  {
+    "id": "porsche-taycan-4s-2023",
+    "slug": "porsche-taycan-4s-2023",
+    "make": "Porsche",
+    "model": "Taycan",
+    "variant": "4S Performance Battery Plus",
+    "year": 2023,
+    "mileage": 9800,
+    "fuel": "Electric",
+    "transmission": "Automatic",
+    "body": "Saloon",
+    "price": {
+      "kind": "numeric",
+      "amount": 13200000,
+      "currency": "INR"
+    },
+    "images": [
+      {
+        "src": "/cars/porsche-taycan-4s-2023/1.jpg",
+        "alt": "Reference photograph of Porsche Taycan, model view",
+        "label": "Model view",
+        "width": 1440,
+        "height": 1152,
+        "focalPoint": "50% 50%",
+        "kind": "photo",
+        "fit": "contain",
+        "credit": {
+          "author": "OWS Photography",
+          "title": "Porsche Taycan 4S Washington DC Metro Area, USA.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Porsche_Taycan_4S_Washington_DC_Metro_Area,_USA.jpg",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      }
+    ],
+    "demo": true,
+    "description": "Explore the Porsche Taycan. Review the specifications and prepare an enquiry for more information."
+  },
+  {
+    "id": "range-rover-velar-2022",
+    "slug": "range-rover-velar-2022",
+    "make": "Land Rover",
+    "model": "Range Rover Velar",
+    "variant": "R-Dynamic SE D200",
+    "year": 2022,
+    "mileage": 31000,
+    "fuel": "Diesel",
+    "transmission": "Automatic",
+    "body": "SUV",
+    "price": {
+      "kind": "numeric",
+      "amount": 7200000,
+      "currency": "INR"
+    },
+    "images": [
+      {
+        "src": "/cars/range-rover-velar-2022/1.jpg",
+        "alt": "Reference photograph of Land Rover Range Rover Velar, model view",
+        "label": "Model view",
+        "width": 1440,
+        "height": 830,
+        "focalPoint": "50% 50%",
+        "kind": "photo",
+        "fit": "contain",
+        "credit": {
+          "author": "Alexander-93",
+          "title": "Range Rover Velar P250 SE IMG 8831.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Range_Rover_Velar_P250_SE_IMG_8831.jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      }
+    ],
+    "demo": true,
+    "description": "Explore the Land Rover Range Rover Velar. Review the specifications and prepare an enquiry for more information."
+  },
+  {
+    "id": "land-rover-defender-110-2023",
+    "slug": "land-rover-defender-110-2023",
+    "make": "Land Rover",
+    "model": "Defender 110",
+    "variant": "X-Dynamic HSE D300",
+    "year": 2023,
+    "mileage": 18500,
+    "fuel": "Diesel",
+    "transmission": "Automatic",
+    "body": "SUV",
+    "price": {
+      "kind": "numeric",
+      "amount": 11500000,
+      "currency": "INR"
+    },
+    "images": [
+      {
+        "src": "/cars/land-rover-defender-110-2023/1.jpg",
+        "alt": "Reference photograph of Land Rover Defender 110, model view",
+        "label": "Model view",
+        "width": 1440,
+        "height": 1045,
+        "focalPoint": "50% 50%",
+        "kind": "photo",
+        "fit": "contain",
+        "credit": {
+          "author": "DeFacto",
+          "title": "Land Rover Defender 110 First Edition 2020 - rear.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Land_Rover_Defender_110_First_Edition_2020_-_rear.jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      }
+    ],
+    "demo": true,
+    "description": "Explore the Land Rover Defender 110. Review the specifications and prepare an enquiry for more information."
+  },
+  {
+    "id": "range-rover-autobiography-2020",
+    "slug": "range-rover-autobiography-2020",
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "variant": "3.0 SDV6 Autobiography LWB",
+    "year": 2020,
+    "mileage": 38000,
+    "fuel": "Diesel",
+    "transmission": "Automatic",
+    "body": "SUV",
+    "price": {
+      "kind": "numeric",
+      "amount": 14500000,
+      "currency": "INR"
+    },
+    "images": [
+      {
+        "src": "/cars/range-rover-autobiography-2020/1.jpg",
+        "alt": "Reference photograph of Land Rover Range Rover, model view",
+        "label": "Model view",
+        "width": 1440,
+        "height": 912,
+        "focalPoint": "50% 50%",
+        "kind": "photo",
+        "fit": "contain",
+        "credit": {
+          "author": "DeFacto",
+          "title": "Land Rover Range Rover Autobiography 2016.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Land_Rover_Range_Rover_Autobiography_2016.jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      }
+    ],
+    "demo": true,
+    "description": "Explore the Land Rover Range Rover. Review the specifications and prepare an enquiry for more information."
+  },
+  {
+    "id": "mercedes-s350d-2021",
+    "slug": "mercedes-s350d-2021",
+    "make": "Mercedes-Benz",
+    "model": "S-Class",
+    "variant": "S 350d",
+    "year": 2021,
+    "mileage": 27000,
+    "fuel": "Diesel",
+    "transmission": "Automatic",
+    "body": "Saloon",
+    "price": {
+      "kind": "numeric",
+      "amount": 11200000,
+      "currency": "INR"
+    },
+    "images": [
+      {
+        "src": "/cars/mercedes-s350d-2021/1.jpg",
+        "alt": "Reference photograph of Mercedes-Benz S-Class, model view",
+        "label": "Model view",
+        "width": 1440,
+        "height": 860,
+        "focalPoint": "50% 50%",
+        "kind": "photo",
+        "fit": "contain",
+        "credit": {
+          "author": "Alexander-93",
+          "title": "Mercedes-Benz W223 1X7A7340.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_W223_1X7A7340.jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      }
+    ],
+    "demo": true,
+    "description": "Explore the Mercedes-Benz S-Class. Review the specifications and prepare an enquiry for more information."
+  },
+  {
+    "id": "maybach-s580-2022",
+    "slug": "maybach-s580-2022",
+    "make": "Mercedes-Maybach",
+    "model": "S-Class",
+    "variant": "S 580 4MATIC",
+    "year": 2022,
+    "mileage": 11000,
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "body": "Saloon",
+    "price": {
+      "kind": "numeric",
+      "amount": 23500000,
+      "currency": "INR"
+    },
+    "images": [
+      {
+        "src": "/cars/maybach-s580-2022/1.jpg",
+        "alt": "Reference photograph of Mercedes-Maybach S-Class, model view",
+        "label": "Model view",
+        "width": 1440,
+        "height": 715,
+        "focalPoint": "50% 50%",
+        "kind": "photo",
+        "fit": "contain",
+        "credit": {
+          "author": "Alexander Migl",
+          "title": "Mercedes-Maybach Z223 680 1X7A5831.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Mercedes-Maybach_Z223_680_1X7A5831.jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      }
+    ],
+    "demo": true,
+    "description": "Explore the Mercedes-Maybach S-Class. Review the specifications and prepare an enquiry for more information."
+  },
+  {
+    "id": "mercedes-amg-g63-2023",
+    "slug": "mercedes-amg-g63-2023",
+    "make": "Mercedes-AMG",
+    "model": "G 63",
+    "variant": "4MATIC",
+    "year": 2023,
+    "mileage": 9200,
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "body": "SUV",
+    "price": {
+      "kind": "numeric",
+      "amount": 26500000,
+      "currency": "INR"
+    },
+    "images": [
+      {
+        "src": "/cars/mercedes-amg-g63-2023/1.jpg",
+        "alt": "Reference photograph of Mercedes-AMG G 63, model view",
+        "label": "Model view",
+        "width": 1440,
+        "height": 840,
+        "focalPoint": "50% 50%",
+        "kind": "photo",
+        "fit": "contain",
+        "credit": {
+          "author": "Dinkun Chen",
+          "title": "MERCEDES-AMG G 63 (W463) China (4).jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:MERCEDES-AMG_G_63_(W463)_China_(4).jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      }
+    ],
+    "demo": true,
+    "description": "Explore the Mercedes-AMG G 63. Review the specifications and prepare an enquiry for more information."
+  },
+  {
+    "id": "mercedes-e220d-2022",
+    "slug": "mercedes-e220d-2022",
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "variant": "E 220d Exclusive LWB",
+    "year": 2022,
+    "mileage": 36000,
+    "fuel": "Diesel",
+    "transmission": "Automatic",
+    "body": "Saloon",
+    "price": {
+      "kind": "numeric",
+      "amount": 5800000,
+      "currency": "INR"
+    },
+    "images": [
+      {
+        "src": "/cars/mercedes-e220d-2022/1.jpg",
+        "alt": "Reference photograph of Mercedes-Benz E-Class, model view",
+        "label": "Model view",
+        "width": 1440,
+        "height": 1099,
+        "focalPoint": "50% 50%",
+        "kind": "photo",
+        "fit": "contain",
+        "credit": {
+          "author": "Benespit",
+          "title": "0 Mercedes-Benz W213 Facelift 1.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:0_Mercedes-Benz_W213_Facelift_1.jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      }
+    ],
+    "demo": true,
+    "description": "Explore the Mercedes-Benz E-Class. Review the specifications and prepare an enquiry for more information."
+  },
+  {
+    "id": "bmw-740li-2022",
+    "slug": "bmw-740li-2022",
+    "make": "BMW",
+    "model": "7 Series",
+    "variant": "740Li M Sport",
+    "year": 2022,
+    "mileage": 29000,
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "body": "Saloon",
+    "price": {
+      "kind": "numeric",
+      "amount": 9800000,
+      "currency": "INR"
+    },
+    "images": [
+      {
+        "src": "/cars/bmw-740li-2022/1.jpg",
+        "alt": "Reference photograph of BMW 7 Series, model view",
+        "label": "Model view",
+        "width": 1440,
+        "height": 1080,
+        "focalPoint": "50% 50%",
+        "kind": "photo",
+        "fit": "contain",
+        "credit": {
+          "author": "Damian B Oh",
+          "title": "BMW 7 Series G12 LCI black (2).jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:BMW_7_Series_G12_LCI_black_(2).jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      }
+    ],
+    "demo": true,
+    "description": "Explore the BMW 7 Series. Review the specifications and prepare an enquiry for more information."
+  },
+  {
+    "id": "bmw-i7-2023",
+    "slug": "bmw-i7-2023",
+    "make": "BMW",
+    "model": "i7",
+    "variant": "xDrive60 M Sport",
+    "year": 2023,
+    "mileage": 8400,
+    "fuel": "Electric",
+    "transmission": "Automatic",
+    "body": "Saloon",
+    "price": {
+      "kind": "numeric",
+      "amount": 15500000,
+      "currency": "INR"
+    },
+    "images": [
+      {
+        "src": "/cars/bmw-i7-2023/1.jpg",
+        "alt": "Reference photograph of BMW i7, model view",
+        "label": "Model view",
+        "width": 1440,
+        "height": 690,
+        "focalPoint": "50% 50%",
+        "kind": "photo",
+        "fit": "contain",
+        "credit": {
+          "author": "Alexander-93",
+          "title": "BMW 7-Series (G70) 750e 1X7A1899.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:BMW_7-Series_(G70)_750e_1X7A1899.jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      }
+    ],
+    "demo": true,
+    "description": "Explore the BMW i7. Review the specifications and prepare an enquiry for more information."
+  },
+  {
+    "id": "bmw-m340i-2021",
+    "slug": "bmw-m340i-2021",
+    "make": "BMW",
+    "model": "3 Series",
+    "variant": "M340i xDrive",
+    "year": 2021,
+    "mileage": 24000,
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "body": "Saloon",
+    "price": {
+      "kind": "numeric",
+      "amount": 5800000,
+      "currency": "INR"
+    },
+    "images": [
+      {
+        "src": "/cars/bmw-m340i-2021/1.jpg",
+        "alt": "Reference photograph of BMW 3 Series, model view",
+        "label": "Model view",
+        "width": 1440,
+        "height": 1152,
+        "focalPoint": "50% 50%",
+        "kind": "photo",
+        "fit": "contain",
+        "credit": {
+          "author": "OWS Photography",
+          "title": "BMW M340i (G20) Washington DC Metro Area, USA (1).jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:BMW_M340i_(G20)_Washington_DC_Metro_Area,_USA_(1).jpg",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      }
+    ],
+    "demo": true,
+    "description": "Explore the BMW 3 Series. Review the specifications and prepare an enquiry for more information."
+  },
+  {
+    "id": "bmw-x5-40i-2022",
+    "slug": "bmw-x5-40i-2022",
+    "make": "BMW",
+    "model": "X5",
+    "variant": "xDrive40i M Sport",
+    "year": 2022,
+    "mileage": 33000,
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "body": "SUV",
+    "price": {
+      "kind": "numeric",
+      "amount": 7400000,
+      "currency": "INR"
+    },
+    "images": [
+      {
+        "src": "/cars/bmw-x5-40i-2022/1.jpg",
+        "alt": "Reference photograph of BMW X5, model view",
+        "label": "Model view",
+        "width": 1440,
+        "height": 743,
+        "focalPoint": "50% 50%",
+        "kind": "photo",
+        "fit": "contain",
+        "credit": {
+          "author": "Alexander-93",
+          "title": "BMW X5 M (G05) 1X7A7047.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:BMW_X5_M_(G05)_1X7A7047.jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      }
+    ],
+    "demo": true,
+    "description": "Explore the BMW X5. Review the specifications and prepare an enquiry for more information."
+  },
+  {
+    "id": "bmw-z4-m40i-2023",
+    "slug": "bmw-z4-m40i-2023",
+    "make": "BMW",
+    "model": "Z4",
+    "variant": "M40i",
+    "year": 2023,
+    "mileage": 6900,
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "body": "Convertible",
+    "price": {
+      "kind": "numeric",
+      "amount": 7800000,
+      "currency": "INR"
+    },
+    "images": [
+      {
+        "src": "/cars/bmw-z4-m40i-2023/1.jpg",
+        "alt": "Reference photograph of BMW Z4, model view",
+        "label": "Model view",
+        "width": 1440,
+        "height": 710,
+        "focalPoint": "50% 50%",
+        "kind": "photo",
+        "fit": "contain",
+        "credit": {
+          "author": "Alexander-93",
+          "title": "BMW G29 Z4 M40i (Facelift) 1X7A6946.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:BMW_G29_Z4_M40i_(Facelift)_1X7A6946.jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      }
+    ],
+    "demo": true,
+    "description": "Explore the BMW Z4. Review the specifications and prepare an enquiry for more information."
+  },
+  {
+    "id": "audi-q7-55-tfsi-2022",
+    "slug": "audi-q7-55-tfsi-2022",
+    "make": "Audi",
+    "model": "Q7",
+    "variant": "55 TFSI quattro Technology",
+    "year": 2022,
+    "mileage": 28000,
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "body": "SUV",
+    "price": {
+      "kind": "numeric",
+      "amount": 6800000,
+      "currency": "INR"
+    },
+    "images": [
+      {
+        "src": "/cars/audi-q7-55-tfsi-2022/1.jpg",
+        "alt": "Reference photograph of Audi Q7, model view",
+        "label": "Model view",
+        "width": 1440,
+        "height": 734,
+        "focalPoint": "50% 50%",
+        "kind": "photo",
+        "fit": "contain",
+        "credit": {
+          "author": "© M 93",
+          "title": "Audi Q7 S line (4M, Facelift) – f 05072025.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Audi_Q7_S_line_(4M,_Facelift)_%E2%80%93_f_05072025.jpg",
+          "license": "CC BY-SA 3.0 de",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/"
+        }
+      }
+    ],
+    "demo": true,
+    "description": "Explore the Audi Q7. Review the specifications and prepare an enquiry for more information."
+  },
+  {
+    "id": "audi-rs-etron-gt-2023",
+    "slug": "audi-rs-etron-gt-2023",
+    "make": "Audi",
+    "model": "RS e-tron GT",
+    "variant": "quattro",
+    "year": 2023,
+    "mileage": 7600,
+    "fuel": "Electric",
+    "transmission": "Automatic",
+    "body": "Saloon",
+    "price": {
+      "kind": "numeric",
+      "amount": 14500000,
+      "currency": "INR"
+    },
+    "images": [
+      {
+        "src": "/cars/audi-rs-etron-gt-2023/1.jpg",
+        "alt": "Reference photograph of Audi RS e-tron GT, model view",
+        "label": "Model view",
+        "width": 1440,
+        "height": 733,
+        "focalPoint": "50% 50%",
+        "kind": "photo",
+        "fit": "contain",
+        "credit": {
+          "author": "Alexander-93",
+          "title": "Audi RS e-tron GT 1X7A1874.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Audi_RS_e-tron_GT_1X7A1874.jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      }
+    ],
+    "demo": true,
+    "description": "Explore the Audi RS e-tron GT. Review the specifications and prepare an enquiry for more information."
+  },
+  {
+    "id": "audi-a6-45-tfsi-2021",
+    "slug": "audi-a6-45-tfsi-2021",
+    "make": "Audi",
+    "model": "A6",
+    "variant": "45 TFSI Technology",
+    "year": 2021,
+    "mileage": 41000,
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "body": "Saloon",
+    "price": {
+      "kind": "numeric",
+      "amount": 4200000,
+      "currency": "INR"
+    },
+    "images": [
+      {
+        "src": "/cars/audi-a6-45-tfsi-2021/1.jpg",
+        "alt": "Reference photograph of Audi A6, model view",
+        "label": "Model view",
+        "width": 1440,
+        "height": 950,
+        "focalPoint": "50% 50%",
+        "kind": "photo",
+        "fit": "contain",
+        "credit": {
+          "author": "Benespit",
+          "title": "18 Audi A6 C8 sedans 1.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:18_Audi_A6_C8_sedans_1.jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      }
+    ],
+    "demo": true,
+    "description": "Explore the Audi A6. Review the specifications and prepare an enquiry for more information."
+  },
+  {
+    "id": "volvo-xc90-b6-2022",
+    "slug": "volvo-xc90-b6-2022",
+    "make": "Volvo",
+    "model": "XC90",
+    "variant": "B6 Ultimate",
+    "year": 2022,
+    "mileage": 26000,
+    "fuel": "Hybrid",
+    "transmission": "Automatic",
+    "body": "SUV",
+    "price": {
+      "kind": "numeric",
+      "amount": 7200000,
+      "currency": "INR"
+    },
+    "images": [
+      {
+        "src": "/cars/volvo-xc90-b6-2022/1.jpg",
+        "alt": "Reference photograph of Volvo XC90, model view",
+        "label": "Model view",
+        "width": 1440,
+        "height": 1080,
+        "focalPoint": "50% 50%",
+        "kind": "photo",
+        "fit": "contain",
+        "credit": {
+          "author": "JustAnotherCarDesigner",
+          "title": "Volvo XC90 II facelift 002.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Volvo_XC90_II_facelift_002.jpg",
+          "license": "CC0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+      }
+    ],
+    "demo": true,
+    "description": "Explore the Volvo XC90. Review the specifications and prepare an enquiry for more information."
+  },
+  {
+    "id": "lexus-lx500d-2023",
+    "slug": "lexus-lx500d-2023",
+    "make": "Lexus",
+    "model": "LX",
+    "variant": "500d",
+    "year": 2023,
+    "mileage": 15800,
+    "fuel": "Diesel",
+    "transmission": "Automatic",
+    "body": "SUV",
+    "price": {
+      "kind": "numeric",
+      "amount": 24500000,
+      "currency": "INR"
+    },
+    "images": [
+      {
+        "src": "/cars/lexus-lx500d-2023/1.jpg",
+        "alt": "Reference photograph of Lexus LX, model view",
+        "label": "Model view",
+        "width": 1440,
+        "height": 1080,
+        "focalPoint": "50% 50%",
+        "kind": "photo",
+        "fit": "contain",
+        "credit": {
+          "author": "Damian B Oh",
+          "title": "Lexus LX 600 VJA310 Atomic Silver (2).jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Lexus_LX_600_VJA310_Atomic_Silver_(2).jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      }
+    ],
+    "demo": true,
+    "description": "Explore the Lexus LX. Review the specifications and prepare an enquiry for more information."
+  },
+  {
+    "id": "toyota-land-cruiser-300-2022",
+    "slug": "toyota-land-cruiser-300-2022",
+    "make": "Toyota",
+    "model": "Land Cruiser",
+    "variant": "300 ZX",
+    "year": 2022,
+    "mileage": 21000,
+    "fuel": "Diesel",
+    "transmission": "Automatic",
+    "body": "SUV",
+    "price": {
+      "kind": "numeric",
+      "amount": 21000000,
+      "currency": "INR"
+    },
+    "images": [
+      {
+        "src": "/cars/toyota-land-cruiser-300-2022/1.jpg",
+        "alt": "Reference photograph of Toyota Land Cruiser, model view",
+        "label": "Model view",
+        "width": 1440,
+        "height": 767,
+        "focalPoint": "50% 50%",
+        "kind": "photo",
+        "fit": "contain",
+        "credit": {
+          "author": "TTTNIS",
+          "title": "2021 Toyota Land Cruieser 300 ZX.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:2021_Toyota_Land_Cruieser_300_ZX.jpg",
+          "license": "CC0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+      }
+    ],
+    "demo": true,
+    "description": "Explore the Toyota Land Cruiser. Review the specifications and prepare an enquiry for more information."
+  },
+  {
+    "id": "toyota-vellfire-2022",
+    "slug": "toyota-vellfire-2022",
+    "make": "Toyota",
+    "model": "Vellfire",
+    "variant": "Executive Lounge Hybrid",
+    "year": 2022,
+    "mileage": 19000,
+    "fuel": "Hybrid",
+    "transmission": "Automatic",
+    "body": "MPV",
+    "price": {
+      "kind": "numeric",
+      "amount": 8800000,
+      "currency": "INR"
+    },
+    "images": [
+      {
+        "src": "/cars/toyota-vellfire-2022/1.jpg",
+        "alt": "Reference photograph of Toyota Vellfire, model view",
+        "label": "Model view",
+        "width": 1440,
+        "height": 959,
+        "focalPoint": "50% 50%",
+        "kind": "photo",
+        "fit": "contain",
+        "credit": {
+          "author": "Matti Blume",
+          "title": "Toyota Vellfire, Johor Bahru (P1110137).jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Toyota_Vellfire,_Johor_Bahru_(P1110137).jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      }
+    ],
+    "demo": true,
+    "description": "Explore the Toyota Vellfire. Review the specifications and prepare an enquiry for more information."
+  },
+  {
+    "id": "mini-cooper-s-convertible-2022",
+    "slug": "mini-cooper-s-convertible-2022",
+    "make": "MINI",
+    "model": "Cooper S Convertible",
+    "variant": "Sidewalk",
+    "year": 2022,
+    "mileage": 14000,
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "body": "Convertible",
+    "price": {
+      "kind": "numeric",
+      "amount": 3800000,
+      "currency": "INR"
+    },
+    "images": [
+      {
+        "src": "/cars/mini-cooper-s-convertible-2022/1.jpg",
+        "alt": "Reference photograph of MINI Cooper S Convertible, model view",
+        "label": "Model view",
+        "width": 1440,
+        "height": 1080,
+        "focalPoint": "50% 50%",
+        "kind": "photo",
+        "fit": "contain",
+        "credit": {
+          "author": "Damian B Oh",
+          "title": "Mini F57 LCI Convertible Cooper S Pepper White (11).jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Mini_F57_LCI_Convertible_Cooper_S_Pepper_White_(11).jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      }
+    ],
+    "demo": true,
+    "description": "Explore the MINI Cooper S Convertible. Review the specifications and prepare an enquiry for more information."
+  },
+  {
+    "id": "rolls-royce-ghost-2019",
+    "slug": "rolls-royce-ghost-2019",
+    "make": "Rolls-Royce",
+    "model": "Ghost",
+    "variant": "Series II",
+    "year": 2019,
+    "mileage": 23000,
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "body": "Saloon",
+    "price": {
+      "kind": "numeric",
+      "amount": 29500000,
+      "currency": "INR"
+    },
+    "images": [
+      {
+        "src": "/cars/rolls-royce-ghost-2019/1.jpg",
+        "alt": "Reference photograph of Rolls-Royce Ghost, model view",
+        "label": "Model view",
+        "width": 1440,
+        "height": 1080,
+        "focalPoint": "50% 50%",
+        "kind": "photo",
+        "fit": "contain",
+        "credit": {
+          "author": "Damian B Oh",
+          "title": "Rolls-Royce Ghost I Series II Black (16).jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Rolls-Royce_Ghost_I_Series_II_Black_(16).jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      }
+    ],
+    "demo": true,
+    "description": "Explore the Rolls-Royce Ghost. Review the specifications and prepare an enquiry for more information."
+  },
+  {
+    "id": "jaguar-f-type-r-2022",
+    "slug": "jaguar-f-type-r-2022",
+    "make": "Jaguar",
+    "model": "F-Type",
+    "variant": "R Coupé P575 AWD",
+    "year": 2022,
+    "mileage": 10500,
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "body": "Coupé",
+    "price": {
+      "kind": "numeric",
+      "amount": 12500000,
+      "currency": "INR"
+    },
+    "images": [
+      {
+        "src": "/cars/jaguar-f-type-r-2022/1.jpg",
+        "alt": "Reference photograph of Jaguar F-Type, model view",
+        "label": "Model view",
+        "width": 1440,
+        "height": 1080,
+        "focalPoint": "50% 50%",
+        "kind": "photo",
+        "fit": "contain",
+        "credit": {
+          "author": "Damian B Oh",
+          "title": "Jaguar F-Type R X152 Salsa Red (2).jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Jaguar_F-Type_R_X152_Salsa_Red_(2).jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      }
+    ],
+    "demo": true,
+    "description": "Explore the Jaguar F-Type. Review the specifications and prepare an enquiry for more information."
+  },
+  {
+    "id": "mercedes-gls-450-2023",
+    "slug": "mercedes-gls-450-2023",
+    "make": "Mercedes-Benz",
+    "model": "GLS",
+    "variant": "450 4MATIC",
+    "year": 2023,
+    "mileage": 17000,
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "body": "SUV",
+    "price": {
+      "kind": "numeric",
+      "amount": 11500000,
+      "currency": "INR"
+    },
+    "images": [
+      {
+        "src": "/cars/mercedes-gls-450-2023/1.jpg",
+        "alt": "Reference photograph of Mercedes-Benz GLS, model view",
+        "label": "Model view",
+        "width": 1440,
+        "height": 880,
+        "focalPoint": "50% 50%",
+        "kind": "photo",
+        "fit": "contain",
+        "credit": {
+          "author": "Dinkun Chen",
+          "title": "MERCEDES-BENZ GLS (X167) China (6).jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:MERCEDES-BENZ_GLS_(X167)_China_(6).jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      }
+    ],
+    "demo": true,
+    "description": "Explore the Mercedes-Benz GLS. Review the specifications and prepare an enquiry for more information."
+  },
+  {
+    "id": "mercedes-eqs-580-2024",
+    "slug": "mercedes-eqs-580-2024",
+    "make": "Mercedes-Benz",
+    "model": "EQS",
+    "variant": "580 4MATIC",
+    "year": 2024,
+    "mileage": 6200,
+    "fuel": "Electric",
+    "transmission": "Automatic",
+    "body": "Saloon",
+    "price": {
+      "kind": "numeric",
+      "amount": 13500000,
+      "currency": "INR"
+    },
+    "images": [
+      {
+        "src": "/cars/mercedes-eqs-580-2024/1.jpg",
+        "alt": "Reference photograph of Mercedes-Benz EQS, model view",
+        "label": "Model view",
+        "width": 1440,
+        "height": 706,
+        "focalPoint": "50% 50%",
+        "kind": "photo",
+        "fit": "contain",
+        "credit": {
+          "author": "Alexander Migl",
+          "title": "Mercedes-Benz V297 IAA 2021 1X7A0251.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_V297_IAA_2021_1X7A0251.jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      }
+    ],
+    "demo": true,
+    "description": "Explore the Mercedes-Benz EQS. Review the specifications and prepare an enquiry for more information."
+  },
+  {
+    "id": "toyota-fortuner-legender-2023",
+    "slug": "toyota-fortuner-legender-2023",
+    "make": "Toyota",
+    "model": "Fortuner",
+    "variant": "Legender 4x4 AT",
+    "year": 2023,
+    "mileage": 22000,
+    "fuel": "Diesel",
+    "transmission": "Automatic",
+    "body": "SUV",
+    "price": {
+      "kind": "numeric",
+      "amount": 4600000,
+      "currency": "INR"
+    },
+    "images": [
+      {
+        "src": "/cars/toyota-fortuner-legender-2023/1.jpg",
+        "alt": "Reference photograph of Toyota Fortuner, model view",
+        "label": "Model view",
+        "width": 1440,
+        "height": 1080,
+        "focalPoint": "50% 50%",
+        "kind": "photo",
+        "fit": "contain",
+        "credit": {
+          "author": "Captainmorlypogi1959",
+          "title": "Toyota Fortuner 4x4 Legender (LTD) 2022.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Toyota_Fortuner_4x4_Legender_(LTD)_2022.jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      }
+    ],
+    "demo": true,
+    "description": "Explore the Toyota Fortuner. Review the specifications and prepare an enquiry for more information."
+  }
+]

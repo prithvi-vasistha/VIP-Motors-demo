@@ -1,0 +1,6 @@
+import type { Metadata } from "next";
+import { inventory } from "@/lib/inventory";
+export const metadata: Metadata = { title: "Legal information" };
+export default function LegalPage() {
+  return <main id="main" className="container legal-page"><h1>Legal information.</h1><p>Prices and availability are subject to confirmation. Valuations are indicative; a final offer requires vehicle inspection and a current market review.</p><details className="image-licences"><summary>Image licences</summary><p>Reference images may differ in model year, specification or condition. They are displayed in responsive sizes; original files are preserved. The photographers and licences for these images are listed below. Their use does not imply endorsement.</p><div className="image-licence-list">{inventory.map(vehicle => <section key={vehicle.id}><h2>{vehicle.make} {vehicle.model}</h2><ul>{vehicle.images.map(image => image.credit ? <li key={image.src}><span>{image.credit.title}</span><span>© {image.credit.author} · <a href={image.credit.source} target="_blank" rel="noreferrer">Original image</a> · <a href={image.credit.licenseUrl} target="_blank" rel="noreferrer">{image.credit.license}</a></span></li> : null)}</ul></section>)}</div></details></main>;
+}

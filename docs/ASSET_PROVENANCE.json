@@ -1,0 +1,638 @@
+{
+  "repository": "https://github.com/akshay-eng/VIP-motos",
+  "commit": "b642a9d3496acc7fafea7dc787654caf5610885e",
+  "models": 36,
+  "photos": [
+    {
+      "carId": "mercedes-gle-300d-2025",
+      "src": "/cars/mercedes-gle-300d-2025/1.jpg",
+      "dimensions": [
+        1440,
+        959
+      ],
+      "focalPoint": "50% 50%",
+      "reference": true,
+      "credit": {
+        "src": "/cars/mercedes-gle-300d-2025/1.jpg",
+        "title": "Mercedes-Benz GLE-Klasse (V167) GLE 350 4MATIC (2023) (53651855136).jpg",
+        "credit": "Charles from Port Chester, New York",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_GLE-Klasse_(V167)_GLE_350_4MATIC_(2023)_(53651855136).jpg"
+      }
+    },
+    {
+      "carId": "bmw-x7-40i-2023",
+      "src": "/cars/bmw-x7-40i-2023/1.jpg",
+      "dimensions": [
+        1440,
+        826
+      ],
+      "focalPoint": "50% 50%",
+      "reference": true,
+      "credit": {
+        "src": "/cars/bmw-x7-40i-2023/1.jpg",
+        "title": "BMW G07 X7 M60i DSC 8564.jpg",
+        "credit": "Alexander Migl",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:BMW_G07_X7_M60i_DSC_8564.jpg"
+      }
+    },
+    {
+      "carId": "mercedes-c220d-2023",
+      "src": "/cars/mercedes-c220d-2023/1.jpg",
+      "dimensions": [
+        1440,
+        986
+      ],
+      "focalPoint": "50% 50%",
+      "reference": true,
+      "credit": {
+        "src": "/cars/mercedes-c220d-2023/1.jpg",
+        "title": "MERCEDES-BENZ C-CLASS LWB (W206) China (17).jpg",
+        "credit": "Dinkun Chen",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:MERCEDES-BENZ_C-CLASS_LWB_(W206)_China_(17).jpg"
+      }
+    },
+    {
+      "carId": "ford-endeavour-2021",
+      "src": "/cars/ford-endeavour-2021/1.jpg",
+      "dimensions": [
+        1440,
+        1080
+      ],
+      "focalPoint": "50% 50%",
+      "reference": true,
+      "credit": {
+        "src": "/cars/ford-endeavour-2021/1.jpg",
+        "title": "Ford Everest 4x2 Titanium 2019 (2).jpg",
+        "credit": "Captainmorlypogi1959",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Ford_Everest_4x2_Titanium_2019_(2).jpg"
+      }
+    },
+    {
+      "carId": "mahindra-xuv700-2022",
+      "src": "/cars/mahindra-xuv700-2022/1.jpg",
+      "dimensions": [
+        1440,
+        1080
+      ],
+      "focalPoint": "50% 50%",
+      "reference": true,
+      "credit": {
+        "src": "/cars/mahindra-xuv700-2022/1.jpg",
+        "title": "A black Mahindra XUV700 SUV in Ashiana Brahmananda, Jamshedpur, India (Ank Kumar, Infosys Limited) 02.jpg",
+        "credit": "Ank Kumar",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:A_black_Mahindra_XUV700_SUV_in_Ashiana_Brahmananda,_Jamshedpur,_India_(Ank_Kumar,_Infosys_Limited)_02.jpg"
+      }
+    },
+    {
+      "carId": "lamborghini-urus-2022",
+      "src": "/cars/lamborghini-urus-2022/1.jpg",
+      "dimensions": [
+        1440,
+        1099
+      ],
+      "focalPoint": "50% 50%",
+      "reference": true,
+      "credit": {
+        "src": "/cars/lamborghini-urus-2022/1.jpg",
+        "title": "Lamborghini Urus Performante 1X7A6805.jpg",
+        "credit": "Alexander-93",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Lamborghini_Urus_Performante_1X7A6805.jpg"
+      }
+    },
+    {
+      "carId": "porsche-911-carrera-s-2021",
+      "src": "/cars/porsche-911-carrera-s-2021/1.jpg",
+      "dimensions": [
+        1440,
+        707
+      ],
+      "focalPoint": "50% 50%",
+      "reference": true,
+      "credit": {
+        "src": "/cars/porsche-911-carrera-s-2021/1.jpg",
+        "title": "Porsche 992 Carrera S coupe IMG 5838.jpg",
+        "credit": "Alexander Migl",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Porsche_992_Carrera_S_coupe_IMG_5838.jpg"
+      }
+    },
+    {
+      "carId": "porsche-cayenne-coupe-2022",
+      "src": "/cars/porsche-cayenne-coupe-2022/1.jpg",
+      "dimensions": [
+        1440,
+        808
+      ],
+      "focalPoint": "50% 50%",
+      "reference": true,
+      "credit": {
+        "src": "/cars/porsche-cayenne-coupe-2022/1.jpg",
+        "title": "Porsche Cayenne Coupé GTS 1X7A7224.jpg",
+        "credit": "Alexander-93",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Porsche_Cayenne_Coup%C3%A9_GTS_1X7A7224.jpg"
+      }
+    },
+    {
+      "carId": "porsche-taycan-4s-2023",
+      "src": "/cars/porsche-taycan-4s-2023/1.jpg",
+      "dimensions": [
+        1440,
+        1152
+      ],
+      "focalPoint": "50% 50%",
+      "reference": true,
+      "credit": {
+        "src": "/cars/porsche-taycan-4s-2023/1.jpg",
+        "title": "Porsche Taycan 4S Washington DC Metro Area, USA.jpg",
+        "credit": "OWS Photography",
+        "license": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Porsche_Taycan_4S_Washington_DC_Metro_Area,_USA.jpg"
+      }
+    },
+    {
+      "carId": "range-rover-velar-2022",
+      "src": "/cars/range-rover-velar-2022/1.jpg",
+      "dimensions": [
+        1440,
+        830
+      ],
+      "focalPoint": "50% 50%",
+      "reference": true,
+      "credit": {
+        "src": "/cars/range-rover-velar-2022/1.jpg",
+        "title": "Range Rover Velar P250 SE IMG 8831.jpg",
+        "credit": "Alexander-93",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Range_Rover_Velar_P250_SE_IMG_8831.jpg"
+      }
+    },
+    {
+      "carId": "land-rover-defender-110-2023",
+      "src": "/cars/land-rover-defender-110-2023/1.jpg",
+      "dimensions": [
+        1440,
+        1045
+      ],
+      "focalPoint": "50% 50%",
+      "reference": true,
+      "credit": {
+        "src": "/cars/land-rover-defender-110-2023/1.jpg",
+        "title": "Land Rover Defender 110 First Edition 2020 - rear.jpg",
+        "credit": "DeFacto",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Land_Rover_Defender_110_First_Edition_2020_-_rear.jpg"
+      }
+    },
+    {
+      "carId": "range-rover-autobiography-2020",
+      "src": "/cars/range-rover-autobiography-2020/1.jpg",
+      "dimensions": [
+        1440,
+        912
+      ],
+      "focalPoint": "50% 50%",
+      "reference": true,
+      "credit": {
+        "src": "/cars/range-rover-autobiography-2020/1.jpg",
+        "title": "Land Rover Range Rover Autobiography 2016.jpg",
+        "credit": "DeFacto",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Land_Rover_Range_Rover_Autobiography_2016.jpg"
+      }
+    },
+    {
+      "carId": "mercedes-s350d-2021",
+      "src": "/cars/mercedes-s350d-2021/1.jpg",
+      "dimensions": [
+        1440,
+        860
+      ],
+      "focalPoint": "50% 50%",
+      "reference": true,
+      "credit": {
+        "src": "/cars/mercedes-s350d-2021/1.jpg",
+        "title": "Mercedes-Benz W223 1X7A7340.jpg",
+        "credit": "Alexander-93",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_W223_1X7A7340.jpg"
+      }
+    },
+    {
+      "carId": "maybach-s580-2022",
+      "src": "/cars/maybach-s580-2022/1.jpg",
+      "dimensions": [
+        1440,
+        715
+      ],
+      "focalPoint": "50% 50%",
+      "reference": true,
+      "credit": {
+        "src": "/cars/maybach-s580-2022/1.jpg",
+        "title": "Mercedes-Maybach Z223 680 1X7A5831.jpg",
+        "credit": "Alexander Migl",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Mercedes-Maybach_Z223_680_1X7A5831.jpg"
+      }
+    },
+    {
+      "carId": "mercedes-amg-g63-2023",
+      "src": "/cars/mercedes-amg-g63-2023/1.jpg",
+      "dimensions": [
+        1440,
+        840
+      ],
+      "focalPoint": "50% 50%",
+      "reference": true,
+      "credit": {
+        "src": "/cars/mercedes-amg-g63-2023/1.jpg",
+        "title": "MERCEDES-AMG G 63 (W463) China (4).jpg",
+        "credit": "Dinkun Chen",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:MERCEDES-AMG_G_63_(W463)_China_(4).jpg"
+      }
+    },
+    {
+      "carId": "mercedes-e220d-2022",
+      "src": "/cars/mercedes-e220d-2022/1.jpg",
+      "dimensions": [
+        1440,
+        1099
+      ],
+      "focalPoint": "50% 50%",
+      "reference": true,
+      "credit": {
+        "src": "/cars/mercedes-e220d-2022/1.jpg",
+        "title": "0 Mercedes-Benz W213 Facelift 1.jpg",
+        "credit": "Benespit",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:0_Mercedes-Benz_W213_Facelift_1.jpg"
+      }
+    },
+    {
+      "carId": "bmw-740li-2022",
+      "src": "/cars/bmw-740li-2022/1.jpg",
+      "dimensions": [
+        1440,
+        1080
+      ],
+      "focalPoint": "50% 50%",
+      "reference": true,
+      "credit": {
+        "src": "/cars/bmw-740li-2022/1.jpg",
+        "title": "BMW 7 Series G12 LCI black (2).jpg",
+        "credit": "Damian B Oh",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:BMW_7_Series_G12_LCI_black_(2).jpg"
+      }
+    },
+    {
+      "carId": "bmw-i7-2023",
+      "src": "/cars/bmw-i7-2023/1.jpg",
+      "dimensions": [
+        1440,
+        690
+      ],
+      "focalPoint": "50% 50%",
+      "reference": true,
+      "credit": {
+        "src": "/cars/bmw-i7-2023/1.jpg",
+        "title": "BMW 7-Series (G70) 750e 1X7A1899.jpg",
+        "credit": "Alexander-93",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:BMW_7-Series_(G70)_750e_1X7A1899.jpg"
+      }
+    },
+    {
+      "carId": "bmw-m340i-2021",
+      "src": "/cars/bmw-m340i-2021/1.jpg",
+      "dimensions": [
+        1440,
+        1152
+      ],
+      "focalPoint": "50% 50%",
+      "reference": true,
+      "credit": {
+        "src": "/cars/bmw-m340i-2021/1.jpg",
+        "title": "BMW M340i (G20) Washington DC Metro Area, USA (1).jpg",
+        "credit": "OWS Photography",
+        "license": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:BMW_M340i_(G20)_Washington_DC_Metro_Area,_USA_(1).jpg"
+      }
+    },
+    {
+      "carId": "bmw-x5-40i-2022",
+      "src": "/cars/bmw-x5-40i-2022/1.jpg",
+      "dimensions": [
+        1440,
+        743
+      ],
+      "focalPoint": "50% 50%",
+      "reference": true,
+      "credit": {
+        "src": "/cars/bmw-x5-40i-2022/1.jpg",
+        "title": "BMW X5 M (G05) 1X7A7047.jpg",
+        "credit": "Alexander-93",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:BMW_X5_M_(G05)_1X7A7047.jpg"
+      }
+    },
+    {
+      "carId": "bmw-z4-m40i-2023",
+      "src": "/cars/bmw-z4-m40i-2023/1.jpg",
+      "dimensions": [
+        1440,
+        710
+      ],
+      "focalPoint": "50% 50%",
+      "reference": true,
+      "credit": {
+        "src": "/cars/bmw-z4-m40i-2023/1.jpg",
+        "title": "BMW G29 Z4 M40i (Facelift) 1X7A6946.jpg",
+        "credit": "Alexander-93",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:BMW_G29_Z4_M40i_(Facelift)_1X7A6946.jpg"
+      }
+    },
+    {
+      "carId": "audi-q7-55-tfsi-2022",
+      "src": "/cars/audi-q7-55-tfsi-2022/1.jpg",
+      "dimensions": [
+        1440,
+        734
+      ],
+      "focalPoint": "50% 50%",
+      "reference": true,
+      "credit": {
+        "src": "/cars/audi-q7-55-tfsi-2022/1.jpg",
+        "title": "Audi Q7 S line (4M, Facelift) – f 05072025.jpg",
+        "credit": "© M 93",
+        "license": "CC BY-SA 3.0 de",
+        "source": "https://commons.wikimedia.org/wiki/File:Audi_Q7_S_line_(4M,_Facelift)_%E2%80%93_f_05072025.jpg"
+      }
+    },
+    {
+      "carId": "audi-rs-etron-gt-2023",
+      "src": "/cars/audi-rs-etron-gt-2023/1.jpg",
+      "dimensions": [
+        1440,
+        733
+      ],
+      "focalPoint": "50% 50%",
+      "reference": true,
+      "credit": {
+        "src": "/cars/audi-rs-etron-gt-2023/1.jpg",
+        "title": "Audi RS e-tron GT 1X7A1874.jpg",
+        "credit": "Alexander-93",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Audi_RS_e-tron_GT_1X7A1874.jpg"
+      }
+    },
+    {
+      "carId": "audi-a6-45-tfsi-2021",
+      "src": "/cars/audi-a6-45-tfsi-2021/1.jpg",
+      "dimensions": [
+        1440,
+        950
+      ],
+      "focalPoint": "50% 50%",
+      "reference": true,
+      "credit": {
+        "src": "/cars/audi-a6-45-tfsi-2021/1.jpg",
+        "title": "18 Audi A6 C8 sedans 1.jpg",
+        "credit": "Benespit",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:18_Audi_A6_C8_sedans_1.jpg"
+      }
+    },
+    {
+      "carId": "volvo-xc90-b6-2022",
+      "src": "/cars/volvo-xc90-b6-2022/1.jpg",
+      "dimensions": [
+        1440,
+        1080
+      ],
+      "focalPoint": "50% 50%",
+      "reference": true,
+      "credit": {
+        "src": "/cars/volvo-xc90-b6-2022/1.jpg",
+        "title": "Volvo XC90 II facelift 002.jpg",
+        "credit": "JustAnotherCarDesigner",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Volvo_XC90_II_facelift_002.jpg"
+      }
+    },
+    {
+      "carId": "lexus-lx500d-2023",
+      "src": "/cars/lexus-lx500d-2023/1.jpg",
+      "dimensions": [
+        1440,
+        1080
+      ],
+      "focalPoint": "50% 50%",
+      "reference": true,
+      "credit": {
+        "src": "/cars/lexus-lx500d-2023/1.jpg",
+        "title": "Lexus LX 600 VJA310 Atomic Silver (2).jpg",
+        "credit": "Damian B Oh",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Lexus_LX_600_VJA310_Atomic_Silver_(2).jpg"
+      }
+    },
+    {
+      "carId": "toyota-land-cruiser-300-2022",
+      "src": "/cars/toyota-land-cruiser-300-2022/1.jpg",
+      "dimensions": [
+        1440,
+        767
+      ],
+      "focalPoint": "50% 50%",
+      "reference": true,
+      "credit": {
+        "src": "/cars/toyota-land-cruiser-300-2022/1.jpg",
+        "title": "2021 Toyota Land Cruieser 300 ZX.jpg",
+        "credit": "TTTNIS",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:2021_Toyota_Land_Cruieser_300_ZX.jpg"
+      }
+    },
+    {
+      "carId": "toyota-vellfire-2022",
+      "src": "/cars/toyota-vellfire-2022/1.jpg",
+      "dimensions": [
+        1440,
+        959
+      ],
+      "focalPoint": "50% 50%",
+      "reference": true,
+      "credit": {
+        "src": "/cars/toyota-vellfire-2022/1.jpg",
+        "title": "Toyota Vellfire, Johor Bahru (P1110137).jpg",
+        "credit": "Matti Blume",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Toyota_Vellfire,_Johor_Bahru_(P1110137).jpg"
+      }
+    },
+    {
+      "carId": "mini-cooper-s-convertible-2022",
+      "src": "/cars/mini-cooper-s-convertible-2022/1.jpg",
+      "dimensions": [
+        1440,
+        1080
+      ],
+      "focalPoint": "50% 50%",
+      "reference": true,
+      "credit": {
+        "src": "/cars/mini-cooper-s-convertible-2022/1.jpg",
+        "title": "Mini F57 LCI Convertible Cooper S Pepper White (11).jpg",
+        "credit": "Damian B Oh",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Mini_F57_LCI_Convertible_Cooper_S_Pepper_White_(11).jpg"
+      }
+    },
+    {
+      "carId": "rolls-royce-ghost-2019",
+      "src": "/cars/rolls-royce-ghost-2019/1.jpg",
+      "dimensions": [
+        1440,
+        1080
+      ],
+      "focalPoint": "50% 50%",
+      "reference": true,
+      "credit": {
+        "src": "/cars/rolls-royce-ghost-2019/1.jpg",
+        "title": "Rolls-Royce Ghost I Series II Black (16).jpg",
+        "credit": "Damian B Oh",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Rolls-Royce_Ghost_I_Series_II_Black_(16).jpg"
+      }
+    },
+    {
+      "carId": "bentley-continental-gt-2021",
+      "src": "/cars/bentley-continental-gt-2021/1.jpg",
+      "dimensions": [
+        1440,
+        721
+      ],
+      "focalPoint": "50% 50%",
+      "reference": true,
+      "credit": {
+        "src": "/cars/bentley-continental-gt-2021/1.jpg",
+        "title": "Bentley Continental GT (3rd gen.) Azure 1X7A6807.jpg",
+        "credit": "Alexander-93",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Bentley_Continental_GT_(3rd_gen.)_Azure_1X7A6807.jpg"
+      }
+    },
+    {
+      "carId": "jaguar-f-type-r-2022",
+      "src": "/cars/jaguar-f-type-r-2022/1.jpg",
+      "dimensions": [
+        1440,
+        1080
+      ],
+      "focalPoint": "50% 50%",
+      "reference": true,
+      "credit": {
+        "src": "/cars/jaguar-f-type-r-2022/1.jpg",
+        "title": "Jaguar F-Type R X152 Salsa Red (2).jpg",
+        "credit": "Damian B Oh",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Jaguar_F-Type_R_X152_Salsa_Red_(2).jpg"
+      }
+    },
+    {
+      "carId": "mercedes-gls-450-2023",
+      "src": "/cars/mercedes-gls-450-2023/1.jpg",
+      "dimensions": [
+        1440,
+        880
+      ],
+      "focalPoint": "50% 50%",
+      "reference": true,
+      "credit": {
+        "src": "/cars/mercedes-gls-450-2023/1.jpg",
+        "title": "MERCEDES-BENZ GLS (X167) China (6).jpg",
+        "credit": "Dinkun Chen",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:MERCEDES-BENZ_GLS_(X167)_China_(6).jpg"
+      }
+    },
+    {
+      "carId": "mercedes-eqs-580-2024",
+      "src": "/cars/mercedes-eqs-580-2024/1.jpg",
+      "dimensions": [
+        1440,
+        706
+      ],
+      "focalPoint": "50% 50%",
+      "reference": true,
+      "credit": {
+        "src": "/cars/mercedes-eqs-580-2024/1.jpg",
+        "title": "Mercedes-Benz V297 IAA 2021 1X7A0251.jpg",
+        "credit": "Alexander Migl",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_V297_IAA_2021_1X7A0251.jpg"
+      }
+    },
+    {
+      "carId": "ferrari-roma-2022",
+      "src": "/cars/ferrari-roma-2022/1.jpg",
+      "dimensions": [
+        1440,
+        958
+      ],
+      "focalPoint": "50% 50%",
+      "reference": true,
+      "credit": {
+        "src": "/cars/ferrari-roma-2022/1.jpg",
+        "title": "Ferrari Roma IMG 9620.jpg",
+        "credit": "Alexander-93",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Ferrari_Roma_IMG_9620.jpg"
+      }
+    },
+    {
+      "carId": "ferrari-roma-2022",
+      "src": "/cars/ferrari-roma-2022/2.jpg",
+      "dimensions": [
+        1440,
+        958
+      ],
+      "focalPoint": "50% 50%",
+      "reference": true,
+      "credit": {
+        "src": "/cars/ferrari-roma-2022/2.jpg",
+        "title": "Ferrari Roma IMG 9627.jpg",
+        "credit": "Alexander-93",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Ferrari_Roma_IMG_9627.jpg"
+      }
+    },
+    {
+      "carId": "toyota-fortuner-legender-2023",
+      "src": "/cars/toyota-fortuner-legender-2023/1.jpg",
+      "dimensions": [
+        1440,
+        1080
+      ],
+      "focalPoint": "50% 50%",
+      "reference": true,
+      "credit": {
+        "src": "/cars/toyota-fortuner-legender-2023/1.jpg",
+        "title": "Toyota Fortuner 4x4 Legender (LTD) 2022.jpg",
+        "credit": "Captainmorlypogi1959",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Toyota_Fortuner_4x4_Legender_(LTD)_2022.jpg"
+      }
+    }
+  ],
+  "galleryPolicy": "One photo per model except the visually confirmed same-car Ferrari pair, plate LEO RC7. Other repository photos were not combined into actual-car galleries.",
+  "prices": "Illustrative prices from the supplied catalogue are now used as clearly labelled demo quotes and budget filters. They are not verified dealer asking prices."
+}

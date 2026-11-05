@@ -1,0 +1,19 @@
+{
+  "referenceProfile": "https://www.instagram.com/vipmotors.india/",
+  "referenceDimensions": [
+    150,
+    150
+  ],
+  "recreatedDimensions": [
+    1254,
+    1254
+  ],
+  "method": "Built-in image_gen reference-image restoration/recreation",
+  "status": "Owner approved; integrated as the website brand mark",
+  "prompt": "Faithfully recreate and enlarge the official Instagram profile logo on its black background. Preserve the silver shield and its open breaks, red sports-car outline, stylized red VIP lettering, white MOTORS lettering, EST. 2010 text, source spacing and proportions. Clean compression artifacts and sharpen the lettering and edges. Do not add or redesign elements.",
+  "owner_approved": true,
+  "approval_date": "2026-11-05",
+  "integrated_asset": "public/brand/vip-motors.png",
+  "sha256": "ba93daa7da1963dec9af0b5d5c43cbeb1c2d4c24a31902245d265db660e1168b",
+  "artwork_modified_after_approval": false
+}
